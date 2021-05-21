@@ -20,7 +20,7 @@ Meant to be as easy as possible to enable right away usage, all you need to do i
 
 https://user-images.githubusercontent.com/7980624/117662543-f566bf00-b19f-11eb-85d2-9bd937d1907b.mov
 
-Using GitHub Actions and default environment variables, it will automatically get our user/ organization public information.
+Using GitHub Actions and default environment variables, it will automatically get your user/ organization public information.
 
 **Please note** that, as Actions are planned to run once a day on cron: '0 0 * * *' time, or when a push is made to the main branch, you need to wait until your organization/ user information is updated in the page.
 
