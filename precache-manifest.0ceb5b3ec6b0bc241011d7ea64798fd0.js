@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d19caee072a083ffe4a1",
-    "url": "/check-my-repo/css/app.a81aad77.css"
+    "revision": "ba1904550b5909092955",
+    "url": "/check-my-repo/css/app.699db25f.css"
   },
   {
-    "revision": "2e47844c3c37cd3d16893cf2029dc0e4",
+    "revision": "8bbab3956050c587725b3f4a29739d2b",
     "url": "/check-my-repo/frontend.json"
   },
   {
@@ -20,24 +20,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/check-my-repo/img/external-link.f729e99d.svg"
   },
   {
-    "revision": "d16ebdb9c003e86a269fa348c6445094",
-    "url": "/check-my-repo/img/logo.d16ebdb9.svg"
-  },
-  {
     "revision": "6d2ee7efd2f34768d46f9161321ab479",
     "url": "/check-my-repo/img/x-circle.6d2ee7ef.svg"
   },
   {
-    "revision": "bd0990e17c7a949448c47ff7b183983e",
+    "revision": "7f7f2f3d4599b9929c97bdaf682398c5",
     "url": "/check-my-repo/index.html"
   },
   {
-    "revision": "d19caee072a083ffe4a1",
-    "url": "/check-my-repo/js/app.db0f03c9.js"
+    "revision": "ba1904550b5909092955",
+    "url": "/check-my-repo/js/app.4b5d195e.js"
   },
   {
-    "revision": "4f312830231cfb801796",
-    "url": "/check-my-repo/js/chunk-vendors.7e269652.js"
+    "revision": "2fe2d448d7245813c94c",
+    "url": "/check-my-repo/js/chunk-vendors.2eb33ba4.js"
   },
   {
     "revision": "f003fc4aae864c738e2fdd41ff0e6715",
